@@ -73,10 +73,10 @@ global.packname = "🇩🇬⃞͕᪳͢￫𖤐㋦͢ꪶ«᪳ⁿ͍ᵉ͍ᶻ͍ᵏ͍ᵒ
 global.author = "*👀❣️ღ᭄͢൭͛ന്റ ꫧ᭄ളങ്ങ⫰ꢳ ᤌണ്ണ⫰ᤌൾ ᬤ᥋ꢳꪆຮོ പറഞ്ഞ⫰ ღ᭄͢ღ͢ക്ക് ᬤ᥋ꢳꪆຮ⫰ള്ള ഇഷ്ຮ൭͛𑜸 പറ്റ᭄🫰🏻🙂 ඉຮ⫰൨᭄ᰢ ღ᭄͢൭͛ന്റ ൔᪧღ͢๏ ᬤღ᭄͢ക്ക് ᤌꪆ𑇥᭄ച്ച⫰ ꫧꢳ⫰ ღ᭄͢ღ͢ക്ക് ᬤ᥋ꢳꪆຮོ സ്᥋ღ͢𑄕๏ ☺️🤌🏻ഇല്ല ღ᭄͢൭͛ന്റ സ്᥋ღ͢𑄕๏  ൭͛൨റ⫰๏ അഭ᭄ღ͢ᨨ๏ ആ൭͛𑇥ꢳོ ....🍒💓*" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/theme/like.ayo.mwonu-18072022-0002.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/20220719_213924.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/IMG_20220718_001011_451.jpg") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/20220719_213924.jpg") //ur thumb pic
 
 //damtabase
 global.premium = ['919072290207'] //ur premium numbers
